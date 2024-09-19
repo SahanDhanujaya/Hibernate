@@ -9,7 +9,7 @@ import org.hibernate.Transaction;
 public class Main {
     public static void main(String[] args) {
         Name name = new Name();
-        name.setId(1);
+        name.setId(2);
         name.setFirstNma("Sahan");
         name.setSecName("Dhanujaya");
 

@@ -8,9 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="One-To-One-Relationship" />
+        <module name="Has-A-Relationship" />
         <module name="Hibernate-Configuration" />
-        <module name="Has-A-Relationshio" />
+        <module name="One-To-Many-Relationship" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="One-TO-Many-RelationShip" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

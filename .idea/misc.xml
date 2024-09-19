@@ -9,7 +9,13 @@
         <option value="$PROJECT_DIR$/Has-A-Relationshio/pom.xml" />
         <option value="$PROJECT_DIR$/One-To-Many-Relationship/pom.xml" />
         <option value="$PROJECT_DIR$/One-To-One-Relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/Has-A-Relationship/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Has-A-Relationshio/One-TO-Many-RelationShip/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
