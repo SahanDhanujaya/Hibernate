@@ -1,6 +1,6 @@
 package lk.ijse.config;
 
-import lk.ijse.entity.Name;
+import lk.ijse.embed.Name;
 import lk.ijse.entity.Person;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

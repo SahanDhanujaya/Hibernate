@@ -1,6 +1,6 @@
-package lk.ijse.entity;
+package lk.ijse.embed;
 
-import jakarta.persistence.Entity;
+import jakarta.persistence.Embeddable;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,9 +9,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-@Entity
+@Embeddable
 public class Name {
     @Id
+    private int id;
     private String firstNma;
     private String secName;
 }
