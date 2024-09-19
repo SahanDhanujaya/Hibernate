@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Has-A-Relationship/Has-A-Relationship.iml" filepath="$PROJECT_DIR$/Has-A-Relationship/Has-A-Relationship.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate.iml" filepath="$PROJECT_DIR$/Hibernate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate-Configuration.iml" filepath="$PROJECT_DIR$/Hibernate-Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many-To-Many-Relationship.iml" filepath="$PROJECT_DIR$/Many-To-Many-Relationship.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-To-Many-Relationship.iml" filepath="$PROJECT_DIR$/One-To-Many-Relationship.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-To-One-Relationship/One-To-One-Relationship.iml" filepath="$PROJECT_DIR$/One-To-One-Relationship/One-To-One-Relationship.iml" />
     </modules>

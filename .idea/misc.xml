@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/One-To-Many-Relationship/pom.xml" />
         <option value="$PROJECT_DIR$/One-To-One-Relationship/pom.xml" />
         <option value="$PROJECT_DIR$/Has-A-Relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/Many-To-Many-Relationship/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

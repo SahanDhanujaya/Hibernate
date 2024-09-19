@@ -11,6 +11,7 @@
         <module name="Has-A-Relationship" />
         <module name="Hibernate-Configuration" />
         <module name="One-To-Many-Relationship" />
+        <module name="Many-To-Many-Relationship" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
