@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Has-A-Relationshio.iml" filepath="$PROJECT_DIR$/Has-A-Relationshio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate.iml" filepath="$PROJECT_DIR$/Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate-Configuration.iml" filepath="$PROJECT_DIR$/Hibernate-Configuration.iml" />
+    </modules>
+  </component>
+</project>
